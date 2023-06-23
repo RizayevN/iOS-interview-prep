@@ -10,10 +10,10 @@ Curated list of topics  for iOS development with links to resources. This place 
 
 ## Language
 #### Swift
-- [ ] [Value vs Reference, Stack vs Heap](https://abhimuralidharan.medium.com/difference-between-value-type-and-a-reference-type-in-ios-swift-18cb5145ad7a)
-- [ ] [COW](https://medium.com/@marthin.pasaribu_72336/copy-on-write-cow-with-swift-ce6c6583de38)
-- [ ] [Closures](https://abhimuralidharan.medium.com/functional-swift-all-about-closures-310bc8af31dd)
-- [ ] [Method dispatch](https://maxim-kryloff.medium.com/swift-method-dispatch-4ac7efab0388)
+- [x] [Value vs Reference, Stack vs Heap](https://abhimuralidharan.medium.com/difference-between-value-type-and-a-reference-type-in-ios-swift-18cb5145ad7a)
+- [x] [COW](https://medium.com/@marthin.pasaribu_72336/copy-on-write-cow-with-swift-ce6c6583de38)
+- [x] [Closures](https://abhimuralidharan.medium.com/functional-swift-all-about-closures-310bc8af31dd)
+- [x] [Method dispatch](https://maxim-kryloff.medium.com/swift-method-dispatch-4ac7efab0388)
 - [ ] [Generics](https://www.kodeco.com/3535703-swift-generics-tutorial-getting-started)
 
 ## Memory management
@@ -113,17 +113,3 @@ Further material is not asked in the interview, but nice to know
 - [ ] [Xcode concepts](https://developer.apple.com/library/archive/featuredarticles/XcodeConcepts/Concept-Schemes.html)
 - [ ] [Managing different Environments using XCode Build Schemes and Configurations](https://medium.com/flawless-app-stories/managing-different-environments-using-xcode-build-schemes-and-configurations-af7c43f5be19)
 - [ ] [Distribution](https://help.apple.com/xcode/mac/current/#/dev8b4250b57)
-
----
-## Community
-- Hopefully, you found the following material useful. It will always be open to improvement. If you find a great material that you think is frequently asked on the interviews, do not hesitate to submit a PR.
-- You find a broken link, please, contact me on one of socials below or drop an issue on the repo!
-
-<div align="center">
-	<h2>Mock Interview</h2>
-</div>
-I also conduct mock interviews. You can schedule one by contacting me on one of these socials.
-<br>
-📩 - mirasaujan@gmail.com
-<br>
-✈️ - http://t.me/ya_miras
