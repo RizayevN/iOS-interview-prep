@@ -14,7 +14,7 @@ Curated list of topics  for iOS development with links to resources. This place 
 - [x] [COW](https://medium.com/@marthin.pasaribu_72336/copy-on-write-cow-with-swift-ce6c6583de38)
 - [x] [Closures](https://abhimuralidharan.medium.com/functional-swift-all-about-closures-310bc8af31dd)
 - [x] [Method dispatch](https://maxim-kryloff.medium.com/swift-method-dispatch-4ac7efab0388)
-- [ ] [Generics](https://www.kodeco.com/3535703-swift-generics-tutorial-getting-started)
+- [x] [Generics](https://www.kodeco.com/3535703-swift-generics-tutorial-getting-started)
 
 ## Memory management
 - [ ] [ARC, memory, strong weak unowned, management issues](https://docs.swift.org/swift-book/LanguageGuide/AutomaticReferenceCounting.html)
