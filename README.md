@@ -21,10 +21,10 @@ Curated list of topics  for iOS development with links to resources. This place 
 - [ ] [Stack VS Heap, Stack Promotion, Boxing of Swift Value Types](https://www.vadimbulavin.com/value-types-and-reference-types-in-swift/)
 - [ ] [Memory layout in Swift](https://www.youtube.com/watch?v=ERYNyrfXjlg&t=11s) (Highly recommend)
 - [ ] [Advanced iOS memory management](https://www.vadimbulavin.com/swift-memory-management-arc-strong-weak-and-unowned/)
-- [ ] [Capture list](https://www.hackingwithswift.com/articles/179/capture-lists-in-swift-whats-the-difference-between-weak-strong-and-unowned-references)
+- [x] [Capture list](https://www.hackingwithswift.com/articles/179/capture-lists-in-swift-whats-the-difference-between-weak-strong-and-unowned-references)
 - [ ] [Autorelease](https://betterprogramming.pub/what-is-autorelease-pool-in-swift-c652784f329e)
 - [x] [unsafe_unretained](https://stackoverflow.com/questions/15968198/what-is-the-use-of-unsafe-unretained-attribute)
-- [ ] [Memory leaks](https://medium.com/flawless-app-stories/all-about-memory-leaks-in-ios-cdd450d0cc34)
+- [x] [Memory leaks](https://medium.com/flawless-app-stories/all-about-memory-leaks-in-ios-cdd450d0cc34)
 - [x] [Manual memory management](https://www.tomdalling.com/blog/cocoa/an-in-depth-look-at-manual-memory-management-in-objective-c/)
 
 ## Concurrency
